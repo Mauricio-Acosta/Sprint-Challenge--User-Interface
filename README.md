@@ -62,7 +62,7 @@ Your finished project must include all of the following requirements:
 
 [Review the provided design file for the home page](design/home.png).  Notice the navigation and header images are missing.
 
-* [ ] Build the HTML and CSS to create the missing navigation and header
+* [X] Build the HTML and CSS to create the missing navigation and header
 * [X] Link the `About` navigation item to the [about.html](about.html) page
 * [ ] Make your design responsive such that it is accessible on mobile(500px) and tablet(800 px) and matches the [mobile](design/mobile.png) wireframe
 *  Add responsive breakpoints to your code by using media queries
